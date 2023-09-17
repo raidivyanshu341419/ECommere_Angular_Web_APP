@@ -1,0 +1,33 @@
+{
+  "seller": [
+    {
+      "name": "Divyanshu",
+      "email": "rai@gmail.com",
+      "password": "Test@12",
+      "id": 1
+    },
+    {
+      "name": "Rahul kumar ",
+      "password": "Test@123",
+      "Email": "Rahul@mailinator.com",
+      "id": 2
+    },
+    {
+      "name": "Rahul kumar ",
+      "password": "Test@123",
+      "Email": "Rahul@mailinator.com",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Iphone 14",
+      "price": "150000",
+      "color": "Black",
+      "category": "Mobiles",
+      "description": "This is the Descriptoin",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fin%2Fshop%2Fbuy-iphone%2Fiphone-14-pro&psig=AOvVaw0l3JrP9qgdQwL9u_mdx3Tt&ust=1694979952229000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCGtMHyr4EDFQAAAAAdAAAAABAL",
+      "id": 1
+    }
+  ]
+}
